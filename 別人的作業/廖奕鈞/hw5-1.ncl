@@ -61,6 +61,7 @@ do level = 0,nlev-1
  res@vcRefLengthF  = 0.01                    ;set vector magnitude
  res@tfDoNDCOverlay = "NDCViewport"            ;True 
  res@stMinDistanceF = 0.01
+ 
  mpres = res 
  mpres@cnLevelSelectionMode  = "ManualLevels"              
  mpres@cnLevelSpacingF = 5.                  ;for wind speed,the spacing between contour intervals is 5
