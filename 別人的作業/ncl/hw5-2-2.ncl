@@ -72,6 +72,8 @@ res@cnLevelSpacingF      =   5                  ; set contour spacing
 res@tmXBMode               = "Explicit"
 res@trXMinF = lat(17)         ; Set minimum X-axis value.
 res@trXMaxF = lat(30)            ; Set maximum X-axis value.
+;res@vpHeightF              = 0.6                   ; change aspect ratio of plot
+;res@vpWidthF               = 0.6
 res@cnLineThicknessF = 5.0
 res@cnLineLabelBackgroundColor = -1
 
