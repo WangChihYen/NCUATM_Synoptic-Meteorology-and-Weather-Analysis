@@ -140,7 +140,7 @@ do level = 0,levs-1
  
  ;overlay(plot,plot2)
  ;overlay(plot,vector)
- draw(plot4)
+ draw(plot3)
  frame(wks)
 
 end do
